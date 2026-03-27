@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Building a Community around Javascript by simplify complex coding concepts, break down Javascript quirks, and help you write clean, confident code
+
 <!--
 
 **Here are some ideas to get you started:**
